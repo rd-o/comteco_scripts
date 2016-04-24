@@ -1,7 +1,7 @@
 #!/usr/bin/expect -f
 set IP 10.0.0.2
 set USER "admin\r" 
-set PASS "n_a4ESJCY74067\r"
+set PASS "n_a4XXXXX00000\r"
 
 spawn telnet $IP
 
